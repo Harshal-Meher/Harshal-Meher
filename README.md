@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Java Intership](Asterisc Technocrat Pvt. Ltd.)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,CORE JAVA,ADVANCE JAVA,PHP,SQL**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,CORE Java,Servlet,JSP,Hibernate,Spring ,Spring Boot,SQL,PHP**
 
 - 📫 How to reach me **meherharshal924@gmail.com**
 
