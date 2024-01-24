@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshal Dinesh Meher</h1>
 <h3 align="center">A passionate Full Stack Java developer from India</h3>
 
-- 🔭 I’m currently working on [Java Intership](Asterisc Technocrat Pvt. Ltd.)
+- 🔭 I’m currently working on [Java Intership ](Asterisc Technocrat Pvt. Ltd.)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,CORE Java,Servlet,JSP,Hibernate,Spring ,Spring Boot,SQL,PHP**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,CORE Java,Servlet,JSP,Hibernate,JPA,Spring ,Spring Boot,SQL,PHP**
 
 - 📫 How to reach me **meherharshal924@gmail.com**
 
